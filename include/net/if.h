@@ -46,6 +46,7 @@
  */
 #ifndef _KERNEL
 #include <sys/time.h>
+#include <sys/socket.h>
 #endif
 
 struct ifnet;
